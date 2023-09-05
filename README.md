@@ -32,6 +32,7 @@ Figure 1 The system architecture of our proposed method
 
 ## Other 
 ---------------------------------------------------
+This method is inspired by our paper BERT-Ensemble Learning with Linguistic Features for Analyzing Attack and Support Relations in Financial Social Media Analytics in which more information about the model detail can be found.
 
 ## References 
 ---------------------------------------------------
