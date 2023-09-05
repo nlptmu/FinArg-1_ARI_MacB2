@@ -39,3 +39,17 @@ As the financial domain evolves, there's a pressing need for nuanced comprehensi
 
 ## References 
 ---------------------------------------------------
+Please cite these papers in your publications if FinArg-1_ARI_MacB2 helps your research.
+
+    @Article{
+      author = {Hen-You Lin, Eugene Sy, Tzu-Cheng Peng, Shih-Hsuan Huang, Yung-Chung Chang},
+      conference = {NTCIR-17},
+      title = {TMUNLP at the NTCIR-17 FinArg-1 Task},
+      year = {2023}
+    }
+    @Article{
+      author = {Hen-You Lin, Tzu-Cheng Peng, Yung-Chung Chang},
+      conference = {TANET & NCS},
+      title = {BERT-Ensemble Learning with Linguistic Features for Analyzing Attack and Support Relations in Financial Social Media Analytics},
+      year = {2023}
+    }
