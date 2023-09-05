@@ -15,7 +15,7 @@ Previous financial NLP studies mainly focused on binary sentence classifications
 In finance, understanding market sentiment remains a cornerstone of decision-making, influenced by economic metrics, geopolitics, and market narratives. Researchers are exploring the value of financial texts and simulating investors' thought processes. This convergence of linguistics, behavioral finance, and technology is reshaping financial analysis.
 In light of this, our focus has pivoted towards examining inter-sentential relationships within financial narratives, aiming to capture correlations between financial events in a more comprehensive and detailed manner. Specifically, our task aims to identify the attack and support argumentative relationships in the social media discussion thread. Instead of analyzing a single social media post, we consider the whole discussion thread. In this task, we attempt to link the posts with attack and support labels. With these labels, we can understand the argumentation structure among opinions. We are confident that through this exploration, we are better equipped to tackle the challenges of the financial market and bolster sustainable growth in the sector.  
 
-<img width="700" alt="image" src="https://github.com/nlptmu/FinArg-1_ARI_MacB2/assets/115517363/2665a479-340f-40a5-8787-3319fc15df1e">  
+<img width="700" alt="image" src="https://github.com/nlptmu/FinArg-1_ARI_MacB2/figure/framework.pdf">  
 
 Figure 1 The system architecture of our proposed method
 
