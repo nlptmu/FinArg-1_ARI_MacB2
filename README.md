@@ -28,6 +28,7 @@ Figure 1 The system architecture of our proposed method
 
 ## Source  
 ---------------------------------------------------
+- You can find this tutorial on how to use FinArg-1_ARI for a quick start [here](https://github.com/nlptmu/FinArg-1_ARI_MacB2/blob/main/code/Financial%20Argument%20Relation%20identification.ipynb). All related code is putted at folder named “code“.
 
 ## Other 
 ---------------------------------------------------
