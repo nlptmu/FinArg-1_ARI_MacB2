@@ -32,7 +32,10 @@ Figure 1 The system architecture of our proposed method
 
 ## Other 
 ---------------------------------------------------
-This method is inspired by our paper BERT-Ensemble Learning with Linguistic Features for Analyzing Attack and Support Relations in Financial Social Media Analytics in which more information about the model detail can be found.
+This method is inspired by our paper BERT-Ensemble Learning with Linguistic Features for Analyzing Attack and Support Relations in Financial Social Media Analytics in which more information about the model detail can be found.  
+
+As the financial domain evolves, there's a pressing need for nuanced comprehension of its texts. This research delves into natural language reasoning within financial discourses by analyzing inter-sentence relationships, utilizing a diverse Chinese financial dataset from social media spanning stocks, housing prices, and tech firms. Recognizing that text relationships are contextual and can be swayed by varying lexicon, we introduce an approach that integrates external knowledge into expansive language models. This not only enriches text feature representation but also prioritizes crucial terms while sidelining potentially misleading ones. Performance-wise, our model surpasses its contemporaries, validating its prowess in offering precise and holistic insights into financial text relationships. Experimental results substantiate that our approach not only effectively predict the relationship but also outperforms the comparisons and achieve SOTA performance. This underscores the potential of our method in fine-grained argument understanding within financial analysis.
+
 
 ## References 
 ---------------------------------------------------
